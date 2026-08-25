@@ -1,0 +1,21 @@
+@charset "UTF-8";
+body{
+    background-color: gray;
+}
+label{
+    font-family: fantasy;
+}
+label{
+    font-size: 30pt
+}
+h1{
+    font-size: 40pt
+}
+hr{
+    color: #fd0000;
+}
+
+p{
+    color: rgb(0, 0, 0);
+    font-size: 20pt;
+}

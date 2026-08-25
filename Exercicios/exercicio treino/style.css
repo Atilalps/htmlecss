@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+h1 {
+    font-family: serif;
+    text-align: justify;
+    text-align: center;
+    box-shadow: 1px 1px 15px black;
+    color: black;
+    
+}
+
+body {
+    background-image: linear-gradient(to right, #D9BBA0, #8C593B);
+    background-color: #D9BBA0;
+}
+
+li {
+    background-color: white;
+    width: 300px;
+    box-shadow: 5px 5px 15px rgba(39, 26, 14, 0.658);
+}
+
+ul{
+    text-size-adjust: 50;
+}
+    
